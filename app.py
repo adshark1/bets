@@ -47,7 +47,7 @@ with tab_home:
         **Last season's performance:**  
         - 58.3% ATS (56-40-3 +12u)
         - 70.2% on totals (198-84-3 +105.6u)
-        - 66.1% overall (254-124-6 +117.6u)
+        - 67.2% overall (254-124-6 +117.6u)
         """
     )
 
