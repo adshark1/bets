@@ -5,12 +5,12 @@ import pandas as pd
 # CONFIG & PAGE SETUP
 ###############################################################################
 st.set_page_config(
-    page_title="Adshark bets",
-    layout="wide",  # you can choose "centered" if you prefer
+    page_title="adshark bets",
+    layout="centered",  # you can choose "centered" if you prefer
 )
 
-st.title("Adshark bets")
-st.write("Past bets/model performance below, future bets will be password protected.")
+st.title("adshark bets")
+st.write("Created by @adshark_. Past bets/model performance below, future bets are password protected.")
 
 ###############################################################################
 # UTILITY: FILE LOADER WITHOUT UPLOADER
@@ -39,15 +39,15 @@ with tab_home:
     st.header("Welcome to adshark's NFL Model Dashboard!")
     st.write(
         """
-        My model is top-level, predicting spreads better than other publicly available NFL models and even Vegas themselves.  
-        All model stats and historical game picks are available to freely look through, but future game predictions are password protected.  
-        Don't worry though, I'll be sharing the password for free for a while, just to prove how good the model is.  
+        All model stats and historical game picks are available to freely look through,
+        but future game predictions are password protected. I'll be sharing the password 
+        on my Twitter @adshark_ for the first couple weeks, so come check it out. 
         See you in Week 1!  
         
         **Last season's performance:**  
-        - 58.3% ATS  
-        - 70.2% on totals  
-        - 66.1% overall
+        - 58.3% ATS (56/96 +12u)
+        - 70.2% on totals (185/267 +105.6u)
+        - 66.1% overall (254/378 +117.6u)
         """
     )
 
