@@ -45,9 +45,9 @@ with tab_home:
         See you in Week 1!  
         
         **Last season's performance:**  
-        - 58.3% ATS (56/96 +12u)
-        - 70.2% on totals (185/267 +105.6u)
-        - 66.1% overall (254/378 +117.6u)
+        - 58.3% ATS (56-40-3 +12u)
+        - 70.2% on totals (198-84-3 +105.6u)
+        - 66.1% overall (254-124-6 +117.6u)
         """
     )
 
